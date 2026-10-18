@@ -2,3 +2,5 @@ pan*
 dot.*
 *.trail
 *.ps
+*.tmp
+.DS_Store
